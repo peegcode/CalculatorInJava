@@ -1,0 +1,2 @@
+# CalculatorInJava
+First little project
